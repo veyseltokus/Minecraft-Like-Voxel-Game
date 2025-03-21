@@ -31,7 +31,7 @@ git clone https://github.com/Refloow/Minecraft-Like-Voxel-Game.git
 cd Minecraft-Like-Voxel-Game
 npm install
 node server.js
-
+```
 
 ## 📂 License
 This project is licensed under the MIT License – use it freely, fork it, build on it, or contribute!
