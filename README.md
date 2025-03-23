@@ -21,6 +21,9 @@
 - ✅ Lightweight and modular – easy to extend  
 - ✅ Fully **open-source** under the **MIT license**
 
+# DISCORD Server:
+On the server anyone can feel free to ask questions, engage in the comunity and discover other free open source software i build
+**https://discord.gg/4enDY8yhuS**
 
 ## 🚀 Try It / Build On It
 
