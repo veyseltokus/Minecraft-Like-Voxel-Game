@@ -25,7 +25,7 @@ To download and execute the latest version of the Minecraft-Like Voxel Game, vis
 
 ### How to Start
 
-```javascript
+```bash
 npm install
 node server.js
 ```
