@@ -23,13 +23,6 @@ To download and execute the latest version of the Minecraft-Like Voxel Game, vis
 
 [![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://github.com/veyseltokus/Minecraft-Like-Voxel-Game/releases)
 
-### How to Start
-
-```bash
-npm install
-node server.js
-```
-
 ## Contribution 🤝
 
 Contributions to the Minecraft-Like Voxel Game project are welcome! Feel free to fork the repository, make changes, and submit a pull request. Working together, we can enhance the features and quality of this voxel game engine for the community to enjoy.
